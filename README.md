@@ -8,7 +8,14 @@
 
 
 ##second：列表
-*line one
-*line two
-*line three
--line four
+* line one
+* line two
+* line three
+- line four
+
+
+
+``` python
+var a = 3;
+int b = 33;
+```
