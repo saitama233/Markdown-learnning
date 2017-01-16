@@ -29,7 +29,7 @@
 
 
 ##fifth：链接
-[指向OneNote](www.zhihu.com)
+[指向OneNote](http://www.zhihu.com)
 ``` python
 var a = 3;
 int b = 33;
