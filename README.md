@@ -31,13 +31,19 @@
 ##fifth：链接
 [指向OneNote](http://www.zhihu.com)
 
+##sixth：图片
 
-##sixth：表格
+
+
+##seventh：表格
 
 | 菩提本无树 |
 | 明镜亦非台 |
 | 本来无一物 |
 | 何处惹尘埃 |
+
+##eighth：分割线
+***
 ``` python
 var a = 3;
 int b = 33;
