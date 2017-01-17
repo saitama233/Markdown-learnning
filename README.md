@@ -46,7 +46,16 @@
 ##eighth：分割线
 ***
 ---
+
+##ninth：代码区域
 ``` python
 var a = 3;
 int b = 33;
 ```
+
+##tenth：缩进
+<p>天地不仁 以万物为刍狗
+<p>You never know what's coming for you.
+
+<br />孤独可以毁掉一个人，但也可以成就一个人
+<br />谎言重复一千次，就会变成真理。
