@@ -53,9 +53,16 @@ var a = 3;
 int b = 33;
 ```
 
-##tenth：缩进
+##tenth：换行
 <p>天地不仁 以万物为刍狗
 <p>You never know what's coming for you.
 
 <br />孤独可以毁掉一个人，但也可以成就一个人
 <br />谎言重复一千次，就会变成真理。
+
+##eleventh：缩进
+&emsp;西方人对“运气”的诠释是：面对机会时有万全准备
+
+
+##twelfth：特殊显示
+`惟愿岁月静好，内心从容。` 
