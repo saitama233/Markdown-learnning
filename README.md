@@ -32,6 +32,7 @@
 [指向OneNote](http://www.zhihu.com)
 
 ##sixth：图片
+![老子可是社会主义接班人](http://img4.duitang.com/uploads/item/201601/23/20160123214908_fFWTr.jpeg)
 
 
 
