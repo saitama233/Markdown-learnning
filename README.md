@@ -49,7 +49,7 @@
 ---
 
 ##ninth：代码区域
-``` python
+```python
 var a = 3;
 int b = 33;
 ```
